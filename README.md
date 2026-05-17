@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1>Hi, I'm Nathaniel , an <a href=" https://www.linkedin.com/in/nathaniel-smith-541726361 >IT Professional</a>☺</h1>
+<h1>Hi, I'm Nathaniel, an <a href="https://www.linkedin.com/in/nathaniel-smith-541726361/">Aspiring IT Professional</a> ☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
