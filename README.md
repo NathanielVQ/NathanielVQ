@@ -7,8 +7,8 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/NathanielVQ/osticket-prereqs)
  
-
-  - [Active Directory Set (https://github.com/NathanielVQ/ActiveDirectory-Azure-Setup)
+- <b>AD Set up for Azure  
+  - [Active Directory Set up](https://github.com/NathanielVQ/ActiveDirectory-Azure-Setup)
     
 <h2>🤳Connect with me:</h2>
 
